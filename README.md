@@ -4,6 +4,8 @@
 
 The Library Metadata Harvester is a versatile cross-platform desktop application designed to streamline the collection and management of library metadata. It is crafted to aid librarians and researchers in efficiently gathering critical data such as ISBNs, OCNs and LC call numbers, enhancing the organization and accessibility of library resources.
 
+This program uses a combination of public APIs along with webscraping some public Blacklight-based academic library catalogs to obtain the data.  If you also want to use Z39.50, see Melissa's other Metadata project. This is the one created by CS4820 Winter 2024 Team 2.
+
 ## Features
 
 - Cross-platform compatibility: Works seamlessly on Windows, Mac, and Linux.
